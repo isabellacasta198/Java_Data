@@ -44,7 +44,7 @@ public class ListasDeProductos {
 
     public static void main(String[] args) {
         // Agregar productos
-        productos.add(new Producto(101, "Laptop", 850.50, 5))ç;
+        productos.add(new Producto(101, "Laptop", 850.50, 5));
         productos.add(new Producto(103, "Teclado", 45.90, 20));
         productos.add(new Producto(104, "Monitor", 300.00, 10));
         productos.add(new Producto(105, "Impresora", 150.30, 8));
